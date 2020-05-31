@@ -4,16 +4,15 @@ import time
 
 os.system ('clear')
 time.sleep(1)
-os.system('figlet TOOLS')
+os.system('figlet TOOLS TERMUX')
 time.sleep(2)
 print "======================================="
-print " Author  : Dimas"
-print " FaceBok : Dimas Pro"
-print " GitHub  : https://github.com/D1M4SPR0"
+print " Author  : FR13NDS"
+print " GitHub  : https://github.com/FR13NDS666"
 print "======================================="
 print
 time.sleep(2)
-print "SELAMAT DATANG DI TOOLS INI JANGAN LUPA ADD FACEBOK ADMIN YG TERTERA DI ATAS DAN GUNAKAN TOOLS INI DENGAN BIJAK JIKA DI SALAH GUNAKAN ADMIN TIDAK AKAN BERTANGGUNG JAWAB:)"
+print "SELAMAT DATANG DI TOOLS INI JANGAN SUKA RECORDS BAKAL KENA AZAB AMIN:)"
 print
 time.sleep(5)
 print "[+]Pilih:"
